@@ -156,7 +156,7 @@ Alphabetized by system
 | Angry Birds Space HD | 1.0.2 | 01/10/2026 | [aks796/abspace_nx](https://github.com/aks796/abspace_nx) | | Yes |  
 | Angry Birds: Star Wars 2 | 1.0.2 | 07/10/2026 | [markaurel13/abstarwars2_nx](https://github.com/markaurel13/abstarwars2_nx) | | Yes |  
 | Asphalt 8: Airborne Retry | 1.0.3 | 01/10/2026 | [aks796/a8retry_nx](https://github.com/aks796/a8retry_nx) | | Yes |  
-| 🟢 Assassin's Creed: Altair's Chronicles HD | 0.1.1 | 18/10/2026 | [iqbalriz/assassinscreed_nx](https://github.com/iqbalriz/assassinscreed_nx) | Yes |  
+| 🟢 Assassin's Creed: Altair's Chronicles HD | 0.1.1 | 18/10/2026 | [iqbalriz/assassinscreed_nx](https://github.com/iqbalriz/assassinscreed_nx) | | Yes |  
 | Call of Duty - Black Ops: Zombies | 1.0.0 | 28/09/2026 | [r4lix/codboz-nx](https://github.com/r4lix/codboz-nx) | | Yes |  
 | Costume Quest | 0.1.0 | 10/10/2026 | [iqbalriz/costumequest_nx](https://github.com/iqbalriz/costumequest_nx) | | Yes |  
 | Dan The Man | 0.2.0 | 09/10/2026 | [hazevauks/dantheman_nx](https://github.com/hazevauks/dantheman_nx) | | Yes |  
