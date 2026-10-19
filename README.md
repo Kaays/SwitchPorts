@@ -441,6 +441,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Abuse | 0.8r3 | 14/11/2020 | [capsterx-switch/abuse](https://github.com/capsterx-switch/abuse) |  | No |  
 | 🟢 Alien vs. Predator: Gold | v2026-nx | 13/09/2026 | [Thorhax/AvP-Gold-NX-Modern](https://github.com/Thorhax/AvP-Gold-NX-Modern) | | Yes |  
 | 🟢 Arx Fatalis | 1.2-nx1 *pre-release* | 20/07/2021 | [fgsfdsfgs/ArxLibertatis](https://github.com/fgsfdsfgs/ArxLibertatis) |  | No |  
+| 🟢 Black & White | 0.1.0 | 19/10/2026 | [gitgarage/openblack](https://github.com/gitgarage/openblack) | [Link](https://gbatemp.net/threads/release-openblack-for-switch-black-white-2001-on-nintendo-switch.685558/) | Yes |  
 | 🟢 Brogue | 1.9.2-r2 | 23/11/2020 | [capsterx-switch/BrogueCE](https://github.com/capsterx-switch/BrogueCE) |  | No |  
 | 🟢 Caesar III | 1.02 | 13/03/2019 | [rsn8887/julius](https://github.com/rsn8887/julius) |  | No |  
 | 🟢 Captain Claw | beta2 | 18/01/2019 | [rsn8887/OpenClaw](https://github.com/rsn8887/OpenClaw) |  | No |  
