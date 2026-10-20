@@ -178,8 +178,8 @@ Alphabetized by system
 | Plants vs. Zombies Touch | 1.0.2 | 01/10/2026 | [aks796/pvz_touch_nx](https://github.com/aks796/pvz_touch_nx) | | Yes |  
 | Rayman: Jungle Run | 0.1.1 | 07/10/2026 | [iqbalriz/rayman_nx](https://github.com/iqbalriz/rayman_nx) | | Yes |  
 | Rayman: Fiesta Run | 0.1.0 | 07/10/2026 | [iqbalriz/fiestarun_nx](https://github.com/iqbalriz/fiestarun_nx) | | Yes |  
-| Smash Hit | 0.1.0 | 04/10/2026 | [hazevauks/smashhit_nx](https://github.com/hazevauks/smashhit_nx) | | Yes |  
-| Space Hulk | 0.1.3 | 09/10/2026 | [liartes/spacehulk-nx](https://github.com/liartes/spacehulk-nx) | | Yes |  
+| 🟢 Smash Hit | 0.1.3 | 19/10/2026 | [hazevauks/smashhit_nx](https://github.com/hazevauks/smashhit_nx) | | Yes |  
+| 🟢 Space Hulk | 0.1.4 | 20/10/2026 | [liartes/spacehulk-nx](https://github.com/liartes/spacehulk-nx) | | Yes |  
 | Sonic & Sega All Stars Racing | 1.0.3 | 01/10/2026 | [aks796/sonic_allstars_nx](https://github.com/aks796/sonic_allstars_nx) | | Yes |  
 | Ultimate Spider-man: Total Mayhem | 1.0.0 | 04/10/2026 | [boraeskicioglu/spiderman_total_mayhem_nx](https://github.com/boraeskicioglu/spiderman_total_mayhem_nx) | [Link](https://gbatemp.net/threads/ultimate-spider-man-total-mayhem-switch-port.685255/) | Yes |  
 
@@ -604,12 +604,12 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Bakugan: Battle Brawlers | 0.1.1 | 18/10/2026 | [Wiredlainn-afk/Bakugan-NX](https://github.com/Wiredlainn-afk/Bakugan-NX) | | Yes |  
 | 🟢 Lost Odyssey | 0.9.65 | 16/10/2026 | [Ad0ky/LostOdysseyRecomp](https://github.com/Ad0ky/LostOdysseyRecomp) | [Link](https://gbatemp.net/threads/lost-odyssey-nintendo-switch-port.685442/) | Yes |  
 | Mass Effect | 0.2.1 | 09/10/2026 | [nebadasSwifty/masseffect-nx](https://github.com/nebadasSwifty/masseffect-nx) | | Yes |  
-| Mushihimesama Futari | 1.0.0 | 08/10/2026 | [ChanseyIsTheBest/futari-nx](https://github.com/ChanseyIsTheBest/futari-nx) | [Link](https://gbatemp.net/threads/mushihimesama-futari-xbox-360-ver-switch-port.685115/) | Yes |  
+| 🟢 Mushihimesama Futari | 1.0.1 | 20/10/2026 | [ChanseyIsTheBest/futari-nx](https://github.com/ChanseyIsTheBest/futari-nx) | [Link](https://gbatemp.net/threads/mushihimesama-futari-xbox-360-ver-switch-port.685115/) | Yes |  
 | Need for Speed: Most Wanted | 1.0.0 | 27/09/2026 | [StevensND/nfsmw-nx](https://github.com/StevensND/nfsmw-nx) | [Link](https://gbatemp.net/threads/need-for-speed-most-wanted-2005-switch-port.684784/) | Yes |  
-| 🟢 Peggle 2 | 1.0.0 | 14/10/2026 | [ChanseyIsTheBest/peggle2-nx](https://github.com/ChanseyIsTheBest/peggle2-nx) | [Link](https://gbatemp.net/threads/peggle-2-switch-port.685349/unread) | Yes |  
+| 🟢 Peggle 2 | 1.0.1 | 20/10/2026 | [ChanseyIsTheBest/peggle2-nx](https://github.com/ChanseyIsTheBest/peggle2-nx) | [Link](https://gbatemp.net/threads/peggle-2-switch-port.685349/unread) | Yes |  
 | The Simpson's Game | 1.0.1 | 06/10/2026 | [R-drg/the-simpsons-game-nx](https://github.com/R-drg/the-simpsons-game-nx) | | Yes |  
 | 🟢 Skate 3 | 0.1.1 | 18/10/2026 | [JohnUzoka/skate-3-rust-engine](https://github.com/JohnUzoka/skate-3-rust-engine) | | Yes |  
-| 🟢 Sonic Adventure 2 | 1.0.2.1 | 13/10/2026 | [ChanseyIsTheBest/sa2-nx](https://github.com/ChanseyIsTheBest/sa2-nx) | [Link](https://gbatemp.net/threads/sonic-adventure-2-xbox-360-ver-switch-port.685092/) | Yes |  
+| 🟢 Sonic Adventure 2 | 1.0.3.1 | 20/10/2026 | [ChanseyIsTheBest/sa2-nx](https://github.com/ChanseyIsTheBest/sa2-nx) | [Link](https://gbatemp.net/threads/sonic-adventure-2-xbox-360-ver-switch-port.685092/) | Yes |  
 | Sonic The Hedgehog (2006) | 1.0.3 | 02/10/2026 | [ChanseyIsTheBest/MarathonRecomp-NX](https://github.com/ChanseyIsTheBest/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/post-10916486) | Yes |  
 | 🟠 Sonic Unleashed | 0.0.3 | 30/07/2026 | [NaGaa95/UnleashedRecomp-NX](https://github.com/NaGaa95/UnleashedRecomp-NX/) | [Link](https://gbatemp.net/threads/sonic-unleashed-recompiled-homebrew-port.681869/) | Yes |  
 | | 0.0.1 | 19/05/2026 | [givethesourceplox/UnleashedRecomp-NX](https://github.com/givethesourceplox/UnleashedRecomp-NX) | [Link](https://gbatemp.net/threads/sonic-unleashed-recompiled-homebrew-port.681869/) | Yes |  
@@ -617,6 +617,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Space Channel 5: Part 2 | 1.1.0 | 18/10/2026 | [BiroGrafx/sc5p2-nx](https://github.com/BiroGrafx/sc5p2-nx) | [Link](https://gbatemp.net/threads/space-channel-5-part-2-switch-port.685536/) | Yes |  
 | Tony Hawk's Project 8 | 1.0.0 | 01/10/2026 | [R-drg/project8-sw](https://github.com/R-drg/project8-sw) | | Yes |  
 | 🟢 Torchlight | 1.0.2 | 15/10/2026 | [liartes/torchlight-nx](https://github.com/liartes/torchlight-nx) | | Yes |  
+| 🟢 Ultra Street Fighter IV | 0.7.5 | 20/10/2026 | [Thorhax/usf4-nx](https://github.com/Thorhax/usf4-nx) | | Yes |  
 
 - 7/16 updated 19/10/2026  
 ⎯ [Top](#toc)
