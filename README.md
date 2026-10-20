@@ -502,6 +502,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🔴 RollerCoaster Tycoon 2 | 1.06-switch | 23/04/2021 | [rsn8887/OpenRCT2](https://github.com/rsn8887/OpenRCT2) |  | No |  
 | | 1.0.0 | 10/09/2026 | [Wander-Eule/OpenRCT2-Switch](https://github.com/Wander-Eule/OpenRCT2-Switch) | | Yes |  
 | 🔴 Serious Sam: The First Encounter / The Second Encounter | nx1 | 28/12/2019 | [fgsfdsfgs/Serious-Engine](https://github.com/fgsfdsfgs/Serious-Engine) |  | No |  
+| 🟢 Sheep, Dog 'n' Wolf: Rewooled | 1.0.0 | 19/10/2026 | [adumah/SheepDogWolf-NX](https://github.com/adumah/SheepDogWolf-NX) | | Yes |  
 | 🔴 The Simpsons: Hit and Run | 0.6.1 | 22/07/2024 | [ZeroArrows/The-Simpsons-Hit-and-Run](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/) | | ??? |  
 | Silent Hill | 1.1.0 | 15/08/2026 | [ChaykaDed/silent-hill-decomp-nx](https://github.com/ChaykaDed/silent-hill-decomp-nx/) | [Link](https://gbatemp.net/threads/silent-hill-decompilation-nx-switch-port.682867/) | Yes |  
 | 🟢 Silent Hill 2 | 1.00 | 15/10/2026 | [cutarev/sh2-nx](https://github.com/cutarev/sh2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10921957) | Yes |  
@@ -591,6 +592,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Need for Speed: Carbon | 0.2.4 | 18/10/2026 | [antoxa2584x/nfsuc-sw](https://github.com/antoxa2584x/nfsuc-sw) | [Link](https://gbatemp.net/threads/need-for-speed-carbon-switch-port.685045/) | Yes |  
 | 🟢 Need for Speed: Underground | 0.4.0 | 15/10/2026 | [antoxa2584x/nfsu1-sw](https://github.com/antoxa2584x/nfsu1-sw) | | Yes |  
 | 🟢 Need for Speed: Underground 2 | 0.5.13 | 18/10/2026 | [antoxa2584x/nfsu2-sw](https://github.com/antoxa2584x/nfsu2-sw) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10916795) | Yes |  
+| 🟢 Tom and Jerry: War of the Whiskers | 0.80.0 | 18/10/2026 | [JohnJames29/WOTW-NX](https://github.com/JohnJames29/WOTW-NX) | | Yes |  
 
 - 6/8 updated 19/10/2026  
 ⎯ [Top](#toc)  
