@@ -7,6 +7,13 @@ Atmosphere has been updated; BornToHonk's fork released with baked in sigpatches
 ![Platform](https://img.shields.io/badge/Platform-Nintendo%20Switch-e60012?style=for-the-badge&logo=nintendoswitch&logoColor=white)  
 
 # Disclaimers
+## English Only.  
+
+Please do not submit pull requests for repos that are not in English. If someone wants to start another
+list to address that stuff, that's fine by me, but if I can't read it, I can't vet it to make sure there's
+no IP infringement, etc. It's perfectly fine to have them side by side, but if it's only in another
+language, it's not going on the list.
+
 ## Status of Recomps/Decomps/Ports/etc.
 
 As this page has become more popular (and the projects associated with it and the threads on GBATemp, etc.),
