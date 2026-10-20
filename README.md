@@ -536,6 +536,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |  
 | Lain | 0.4.4-nx.6 | 20/08/2026 | [amydevs/lainNX](https://github.com/amydevs/lainNX) | [Link](https://gbatemp.net/threads/release-lain-ps1-switch-port-port-of-laintsx-for-nintendo-switch-using-nx-js.682875/) | Yes |  
+| 🟢 Ms. PacMan Maze Madness | 1.1 | 19/10/2026 | [adumah/MsPacManMazeMadnessRecomp](https://github.com/adumah/MsPacManMazeMadnessRecomp) | | Yes |  
 | WipEout | *released* | 12/07/2026 | [emuman100/wipeout-rewrite-nintendo-switch-homebrew](https://github.com/emuman100/wipeout-rewrite-nintendo-switch-homebrew) |  | Yes |  
 
 - 0/2 updated 19/10/2026  
