@@ -617,6 +617,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Space Channel 5: Part 2 | 1.1.0 | 18/10/2026 | [BiroGrafx/sc5p2-nx](https://github.com/BiroGrafx/sc5p2-nx) | [Link](https://gbatemp.net/threads/space-channel-5-part-2-switch-port.685536/) | Yes |  
 | Tony Hawk's Project 8 | 1.0.0 | 01/10/2026 | [R-drg/project8-sw](https://github.com/R-drg/project8-sw) | | Yes |  
 | 🟢 Torchlight | 1.0.2 | 15/10/2026 | [liartes/torchlight-nx](https://github.com/liartes/torchlight-nx) | | Yes |  
+| | 1.0.0 | 20/10/2026 | [GreenSwampDweller/torchlight-rekindled](https://github.com/GreenSwampDweller/torchlight-rekindled) | [Link](https://gbatemp.net/threads/torchlight-rekindled-port-of-torchlight-2009-on-switch-android.685627/) | Yes |  
 | 🟢 Ultra Street Fighter IV | 0.7.5 | 20/10/2026 | [Thorhax/usf4-nx](https://github.com/Thorhax/usf4-nx) | | Yes |  
 
 - 7/16 updated 19/10/2026  
