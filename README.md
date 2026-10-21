@@ -592,6 +592,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Flatout 2 | 0.2.1 | 18/10/2026 | [antoxa2584x/flatout2-sw](https://github.com/antoxa2584x/flatout2-sw) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10924028) | Yes |  
 | 🟢 Halo: Combat Evolved | Build 106 | 18/10/2026 | [thelinkin3000/halo-ce-universal](https://github.com/thelinkin3000/halo-ce-universal) | [Link](https://gbatemp.net/threads/halo-ce-for-switch.684926/#post-10917594) | Yes |  
 | |  1.0.0 | 10/10/2026 | [seamusduncmcgrath/OpenCE-nx](https://github.com/seamusduncmcgrath/OpenCE-nx) | | Yes |  
+| 🟢 Mortal Kombat: Shaolin Monks | 0.2.0 | 21/10/2026 | [ShaolinMonks-NX/releases](https://github.com/Thorhax/ShaolinMonks-NX/releases) | | Yes |  
 | 🟢 Need for Speed: Carbon | 0.2.4 | 18/10/2026 | [antoxa2584x/nfsuc-sw](https://github.com/antoxa2584x/nfsuc-sw) | [Link](https://gbatemp.net/threads/need-for-speed-carbon-switch-port.685045/) | Yes |  
 | 🟢 Need for Speed: Underground | 0.4.0 | 15/10/2026 | [antoxa2584x/nfsu1-sw](https://github.com/antoxa2584x/nfsu1-sw) | | Yes |  
 | 🟢 Need for Speed: Underground 2 | 0.5.13 | 18/10/2026 | [antoxa2584x/nfsu2-sw](https://github.com/antoxa2584x/nfsu2-sw) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10916795) | Yes |  
