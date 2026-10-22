@@ -172,7 +172,7 @@ Alphabetized by system
 | Ducktales: Remastered | 1.3.0 | 03/10/2026 | [Thorhax/Ducktales-NX](https://github.com/Thorhax/Ducktales-NX) | | Yes |  
 | Disney Crossy Road | 1.0.2 | 01/10/2026 | [aks796/dcr_sea_nx](https://github.com/aks796/dcr_sea_nx) | | Yes |  
 | Flappy Birds Family | 1.0.2 | 01/10/2026 | [aks796/flappybirdsfamily_nx](https://github.com/aks796/flappybirdsfamily_nx) | | Yes |  
-| 🟢 Jet Set Radio | 1.0.0 | 19/10/2026 | [lemasterxar5/jet-set-radio-nx](https://github.com/lemasterxar5/jet-set-radio-nx) | | Yes |  
+| 🟢 Jet Set Radio | 1.1.0 | 21/10/2026 | [lemasterxar5/jet-set-radio-nx](https://github.com/lemasterxar5/jet-set-radio-nx) | | Yes |  
 | Labyrinth 2 | 1.0.2 | 01/10/2026 | [aks796/labyrinth2_nx](https://github.com/aks796/labyrinth2_nx) | | Yes |  
 | 🟢 Need for Speed: Most Wanted | 0.2.8 | 15/10/2026 | [SantiBros/NFSMostWanted2012-Android-Switch](https://github.com/SantiBros/NFSMostWanted2012-Android-Switch) | | Yes |  
 | N.O.V.A. 3: Near Orbit Vanguard Alliance | 1.0.1 | 11/10/2026 | [markaurel13/nova3-nx](https://github.com/markaurel13/nova3-nx) | [Link](https://gbatemp.net/threads/n-o-v-a-3-switch-port.685264/) | Yes |  
@@ -609,6 +609,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
 | 🟢 Bakugan: Battle Brawlers | 0.2.1 | 21/10/2026 | [Wiredlainn-afk/Bakugan-NX](https://github.com/Wiredlainn-afk/Bakugan-NX) | | Yes |  
+| 🟢 Bejeweled 3 | 1.0.0 | 21/10/2026 | [ChanseyIsTheBest/bejeweled3-nx](https://github.com/ChanseyIsTheBest/bejeweled3-nx) | | Yes |  
 | 🟢 Dante's Inferno | 1.0.0 (TU2) | 21/10/2026 | [VasilkovND/dantes-inferno-nx](https://github.com/VasilkovND/dantes-inferno-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994) | Yes |  
 | 🟢 Dead Space 2 | 1.0.4 (TU2) | 21/10/2026 | [VasilkovND/ds2-nx](https://github.com/VasilkovND/ds2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994) | Yes |  
 | 🟢 Lost Odyssey | 1.0.6 | 20/10/2026 | [Ad0ky/LostOdysseyRecomp](https://github.com/Ad0ky/LostOdysseyRecomp) | [Link](https://gbatemp.net/threads/lost-odyssey-nintendo-switch-port.685442/) | Yes |  
