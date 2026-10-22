@@ -80,21 +80,13 @@ violators will be ignored.
 (this is a planned future development; stay tuned).
 
 ## Recent Changes:
-- Changed `Instructions accurate?` header to `Updated for FW 21+?`, which will link to
-  [MSPR](https://github.com/robzilla10001/mspr) page for compiled NRO's (if I or a
-  contributor is responsible for the update). NOTE: I cannot guarantee that the version
-  that appears on MSPR is the most up-to-date version of the title; the original author
-  may come along and update the base version of the game, at which point our NRO will
-  be out of date. Please check the source and MSPR to ensure you're getting the latest
-  version.
 - 🟢 - indicates the title is new and/or updated in a recent edit. Most recent commit <7 days.
-- 🟠 - indicates the title is archived.
-- 🔴 - indicates the title is dead (>12 months no activity).
 - Removed non-linked GBATemp Thread place holders. See the discussion topic linked above to
   discuss any title that doesn't have a dedicated thread. I briefly considered making a thread
   for each title missing one, but A.) didn't feel like flooding GBATemp and catching a vacation,
   and B.) Just seems like a waste of time.
 - Above information updated on future state of project.
+- Moved archived/dead projects to DEAD.md.
 
 <a id="toc"></a>  
 ## Table of Contents  
@@ -219,7 +211,6 @@ Alphabetized by system
 | Chaos Rings III | 1.0.1 | 28/06/2026 | [NaGaa95/cr3_nx](https://github.com/NaGaa95/cr3_nx) | [Link](https://gbatemp.net/threads/chaos-rings-iii-switch-port.682597/) | Yes |  
 | Chrono Trigger | 1.1.0 | 13/07/2026 | [NaGaa95/ct_nx](https://github.com/NaGaa95/ct_nx) | [Link](https://gbatemp.net/threads/chrono-trigger-switch-port.682630/) | Yes |
 | Clay Jam Classic | 1.0.0 | 27/07/2026 | [ChanseyIsTheBest/clayjamclassic_nx](https://github.com/ChanseyIsTheBest/clayjamclassic_nx) | [Link](https://gbatemp.net/threads/clay-jam-classic-switch-port.683368/) | Yes |  
-| 🟠 CloverPit | 1.0.0 | 24/07/2026 | [ChanseyIsTheBest/cloverpit_nx](https://github.com/ChanseyIsTheBest/cloverpit_nx) | [Link](https://gbatemp.net/threads/cloverpit-switch-port.683303/#post-10887272) | Yes |  
 | Color Sheep | 1.0.1 | 18/07/2026 | [ChanseyIsTheBest/colorsheep_nx](https://github.com/ChanseyIsTheBest/colorsheep_nx) | [Link](https://gbatemp.net/threads/color-sheep-switch-port.683025/unread) | Yes |  
 | Counter Strike Source | 1.0.0 | 06/07/2026 | [NaGaa95/css_nx](https://github.com/NaGaa95/css_nx) | [Link](https://gbatemp.net/threads/counter-strike-source-switch-port.682944/) | Yes |  
 | Crazy Taxi | 1.0.0 | 01/07/2026 | [delsonazevedo/crazytaxy_nx](https://github.com/delsonazevedo/crazytaxy_nx) | [Link](https://gbatemp.net/threads/crazy-taxi-port.683085/) | Yes |  
@@ -289,7 +280,6 @@ Alphabetized by system
 | Plants vs. Zombies: Fusion | 1.0.11 | 22/08/2026 | [ChanseyIsTheBest/pvz_fusion_en_nx](https://github.com/ChanseyIsTheBest/pvz_fusion_en_nx) | [Link](https://gbatemp.net/threads/plants-vs-zombies-fusion-switch-port.683213/) | Yes |  
 | Plants vs. Zombies 2 | 1.2.0 | 26/08/2026 | [xflipperkast/PVZ2_NX](https://github.com/xflipperkast/PVZ2_NX) | [Link](https://gbatemp.net/threads/plants-vs-zombies-2-switch-port.683717/) | Yes |  
 | Plants vs. Zombies 2: Reflourished | 1.0.0 | 27/08/2026 | [xflipperkast/PVZ2RF_NX](https://github.com/xflipperkast/PVZ2RF_NX) | [Link](https://gbatemp.net/threads/plants-vs-zombies-2-reflourished-switch-port.684044/) | Yes |  
-| 🟠 Plants vs. Zombies Ultimate | 1.0.2 | 22/08/2026 | [ChanseyIsTheBest/pvz_ultimate_nx](https://github.com/ChanseyIsTheBest/pvz_ultimate_nx) | [Link](https://gbatemp.net/threads/pvz-ultimate-switch-port.683858/) | Yes |  
 | Pocket Crystal League | 1.0.0 | 24/09/2026 | [ChanseyIsTheBest/pcl_nx](https://github.com/ChanseyIsTheBest/pcl_nx) | | Yes |  
 | POINPY | 1.0.1 | 06/08/2026 | [ChanseyIsTheBest/poinpy_nx/](https://github.com/ChanseyIsTheBest/poinpy_nx/) | [Link](https://gbatemp.net/threads/poinpy-switch-port.683562/) | Yes |  
 | Poor Bunny! | 1.0.0 | 20/09/2026 | [ChanseyIsTheBest/poorbunny_nx](https://github.com/ChanseyIsTheBest/poorbunny_nx) | [Link](https://gbatemp.net/threads/adventure-island-game-ports-total-party-kill-heart-star-poor-bunny-duke-dashington-switch-port.684579/) | Yes |  
@@ -298,8 +288,6 @@ Alphabetized by system
 | Professor Layton Lost Hope HD | 1.0.3 | 29/06/2026 | [NaGaa95/layton3_nx](https://github.com/NaGaa95/layton3_nx) | [Link](https://gbatemp.net/threads/professor-layton-lost-future-hd-switch-port.682462/) | Yes |  
 | Professor Layton Pandora's Box HD | 1.0.2 | 29/06/2026 | [NaGaa95/layton2_nx](https://github.com/NaGaa95/layton2_nx) | [Link](https://gbatemp.net/threads/professor-layton-pandoras-box-hd-switch-port.682460/) | Yes |  
 | 🟢 Real Drift Car Racing | 1.2.1 | 21/10/2026 | [dpadninja/realdrift_nx](https://github.com/dpadninja/realdrift_nx) | [Link](https://gbatemp.net/threads/real-drift-car-racing-android-5-0-8-nintendo-switch-port.685675/) | Yes |  
-| 🟠 The Room 3 | 1.0.0 | 08/10/2026 | [ChanseyIsTheBest/theroomthree_nx](https://github.com/ChanseyIsTheBest/theroomthree_nx/) | [Link](https://gbatemp.net/threads/the-room-three-old-sins-switch-port.683590/) | Yes | 
-| 🟠 The Room: Old Sins | 1.0.0 | 08/10/2026 | [ChanseyIsTheBest/theroom4_nx](https://github.com/ChanseyIsTheBest/theroom4_nx/) | [Link](https://gbatemp.net/threads/the-room-three-old-sins-switch-port.683590/) | Yes |  
 | RVGL | 1.0.0 | 20/09/2026 | [ChanseyIsTheBest/revolt_nx](https://github.com/ChanseyIsTheBest/revolt_nx) | [Link](https://gbatemp.net/threads/rvgl-re-volt-switch-port.684578/) | Yes |  
 | | 23.1030a1 | 21/02/2026 | [BirdSentinel/rvgl-for-switch](https://github.com/BirdSentinel/rvgl-for-switch) | | Yes |  
 | Slay the Spire 2 | 1.0.0 | 26/08/2026 | [ChanseyIsTheBest/sts2_nx](https://github.com/ChanseyIsTheBest/sts2_nx) | [Link](https://gbatemp.net/threads/slay-the-spire-2-switch-port.683997/) | Yes |  
@@ -419,7 +407,6 @@ Alphabetized by system
 | 🟢 Conker's Bad Fur Day | RC1 | 18/10/2026 | [DomazinUS/CBFD-Switch](https://github.com/DomazinUS/CBFD-Switch) | [Link](https://gbatemp.net/threads/release-conkers-bad-fur-day-recompiled-for-nintendo-switch-60fps-720p-1080p-stock-clocks.685543/) | Yes |  
 | Diddy Kong Racing | 1.2.1 | 12/08/2026 | [boraeskicioglu/goldenballoon_nx](https://github.com/boraeskicioglu/goldenballoon_nx) | [Link](https://gbatemp.net/threads/diddy-kong-racing-golden-balloon-switch-port.683670/) | Yes |  
 | Donkey Kong 64 | 1.1.2 | 11/10/2026 | [Trinalord777/DK64Recomp-NX](https://github.com/Trinalord777/DK64Recomp-NX) | [Link](https://gbatemp.net/threads/dk64-reconkgpiled-nx-port.685111/) | Yes |  
-| 🔴 Doom 64 | 0.2.0-nx *pre-release* | 23/10/2019 | [fgsfdsfgs/Doom64EX](https://github.com/fgsfdsfgs/Doom64EX) |  | No |  
 | F-Zero X | 1.0.1 | 14/08/2026 | [PalindromicBreadLoaf/NX-Diffuser](https://github.com/PalindromicBreadLoaf/NX-Diffuser) | | Yes |  
 | The Legend of Zelda: Majora's Mask | 4.0.0 nx | 30/01/2026 | [YoshiCrystal9/2ship2harkinian-Switch](https://github.com/YoshiCrystal9/2ship2harkinian-Switch/) | [Link](https://gbatemp.net/threads/majoras-mask-switch-port-2ship-2harkinian.667996/) | Yes |  
 | | 5.0.1 v3 | 03/09/2026 | [reflex909/2ship2harkinian-Switch](https://github.com/reflex909/2ship2harkinian-Switch) | [Link](https://gbatemp.net/threads/2ship2harkinian-switch-port-gyro-and-rumble-support.683491/) | Yes |  
@@ -429,7 +416,6 @@ Alphabetized by system
 | | 1.0.2 | 28/09/2026 | [CypherNoodle/PaperBoat-nx](https://github.com/CypherNoodle/PaperBoat-nx) | | Yes |  
 | Perfect Dark | ??? | 13/08/2026 | [perfect-dark-pc-port/perfect-dark](https://github.com/perfect-dark-pc-port/perfect_dark/) | [Link](https://gbatemp.net/threads/perfect-dark-switch-port.663322/) | Yes |  
 | 🟢 StarCraft64 | 1.3 | 18/10/2026 | [gabryboy12-ai/StarCraft64-NX](https://github.com/gabryboy12-ai/StarCraft64-NX) | | Yes |  
-| 🔴 StarFox | 2.0.0 | 24/05/2025 | [HarbourMasters/Starship](https://github.com/HarbourMasters/Starship/) | [Link](https://gbatemp.net/threads/starship-sf64-nintendo-switch-port.668344/) | ??? |  
 | Super Mario 64 | 3.0.0 | 07/09/2026 | [HarbourMasters/Ghostship](https://github.com/HarbourMasters/Ghostship) | [Link](https://gbatemp.net/threads/super-mario-64-gets-a-new-pc-port-from-the-harbour-masters-team.678985/) | Yes |  
 | Super Smash Bros. | 1.6.0 | 23/09/2026 | [KawaiiBunga/BattleShipNX](https://github.com/KawaiiBunga/BattleShipNX) | | Yes |  
 | | 1.3.0 | 12/06/2026 | [delsonazevedo/BattleShip-Switch](https://github.com/delsonazevedo/BattleShip-Switch) | | Yes |  
@@ -447,26 +433,16 @@ Alphabetized by system
 Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |
 | 0 A.D. | R28-NX1 | 30/06/2026 | [souldbminerr/0ad-switch](https://github.com/souldbminerr/0ad-switch) | [Link](https://gbatemp.net/threads/0-a-d-switch-port-rts-in-horizon-os.682759/) | ??? |  
-| 🔴 Abuse | 0.8r3 | 14/11/2020 | [capsterx-switch/abuse](https://github.com/capsterx-switch/abuse) |  | No |  
 | Alien vs. Predator: Gold | v2026-nx | 13/09/2026 | [Thorhax/AvP-Gold-NX-Modern](https://github.com/Thorhax/AvP-Gold-NX-Modern) | | Yes |  
-| 🔴 Arx Fatalis | 1.2-nx1 *pre-release* | 20/07/2021 | [fgsfdsfgs/ArxLibertatis](https://github.com/fgsfdsfgs/ArxLibertatis) |  | No |  
 | 🟢 Black & White | 0.1.0 | 19/10/2026 | [gitgarage/openblack](https://github.com/gitgarage/openblack) | [Link](https://gbatemp.net/threads/release-openblack-for-switch-black-white-2001-on-nintendo-switch.685558/) | Yes |  
-| 🔴 Brogue | 1.9.2-r2 | 23/11/2020 | [capsterx-switch/BrogueCE](https://github.com/capsterx-switch/BrogueCE) |  | No |  
-| 🔴 Caesar III | 1.02 | 13/03/2019 | [rsn8887/julius](https://github.com/rsn8887/julius) |  | No |  
-| 🔴 Captain Claw | beta2 | 18/01/2019 | [rsn8887/OpenClaw](https://github.com/rsn8887/OpenClaw) |  | No |  
 | 🟢 Castlevania ReVamped | 1.1.3 | 15/10/2026 | [bshurikan/cvrevamped_nx](https://github.com/bshurikan/cvrevamped_nx) | [Link](https://gbatemp.net/threads/castlevania-revamped-nintendo-switch-port.684636/) | Yes |  
-| 🔴 Command & Conquer / Red Alert | 0.6 | 01/01/2021 | [capsterx-switch/Vanilla-Conquer](https://github.com/capsterx-switch/Vanilla-Conquer/) | [Link](https://gbatemp.net/threads/c-c-vanilla-conquer.579074/) | No |  
 | Commander Keen | 3.6.0 | 10/02/2026 | [Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/) | [Link](https://gbatemp.net/threads/commander-keen-for-switch.569609/) | Yes |  
 | Descent | 0.58.6 | 09/09/2026 | [Thorhax/Descent1-NX-Modern](https://github.com/Thorhax/Descent1-NX-Modern) | | Yes |  
 | Descent 2 | 0.58.6 | 09/09/2026 | [Thorhax/Descent2-NX-Modern](https://github.com/Thorhax/Descent2-NX-Modern) | [Link](https://gbatemp.net/threads/descent-2-nx.685064/) | Yes |  
-| 🔴 Dethrace | 1.1 | 01/05/2025 | [alexart878/dethrace-switch](https://github.com/alexart878/dethrace-switch) | [Link](https://gbatemp.net/threads/dethrace-nx.670358/) | ??? | 
-| 🔴 Diablo | 0.95b | 14/07/2019 | [lantas/devilution-nx](https://github.com/lantus/devilution-nx/) | [Link](https://gbatemp.net/threads/diablo-nx-nintendo-switch-port-of-devilutionx-diablo.542414/) | No |  
 | | 1.6.1 | 04/09/2026 | [Thorhax/DevilutionX-NX-Modern](http://github.com/Thorhax/DevilutionX-NX-Modern) | | Yes |  
-| 🔴 Doom | 1.02 | 26/07/2018 | [lantus/chocolate-doom-nx](https://github.com/lantus/chocolate-doom-nx/) | | No |  
 | | 4.10.0 | 29/08/2026 | [Thorhax/GZDoom-NX-2026](https://github.com/Thorhax/GZDoom-NX-2026) | | Yes |  
 | | Update 2 | 11/09/2026 | [Thorhax/GZDoom-NX-Modern](https://github.com/Thorhax/GZDoom-NX-Modern) | | Yes |  
 | Driver 2 | 0.1.0 | 07/06/2026 | [jamyaro/REDRIVER2-switch](https://github.com/jamyaro/REDRIVER2-switch) | [Link](https://gbatemp.net/threads/redriver2-driver-2-playstation-game-reverse-engineering.682414/) | Yes |  
-| 🔴 Duke Nukem 3D | r8093_nx_2 | 17/09/2019 | [fgsfdsfgs/eduke32](https://github.com/fgsfdsfgs/eduke32) |  | No |  
 | Dune II | 0.98.4 | 09/11/2025 | [carstene1ns/dunelegacy](https://github.com/carstene1ns/dunelegacy/tree/switch-port) | [Link](https://gbatemp.net/threads/dune-legacy-dune-ii-remake.676917/) | ??? |  
 | Elder Scrolls III Morrowind | 0.46.0-nx4 | 16/08/2026 | [fgsfdsfgs/openmw](https://github.com/fgsfdsfgs/openmw/) | [Link](https://gbatemp.net/threads/openmw-for-switch.540250/) | Yes |  
 | 🟢 | 1.0.0 | 15/10/2026 | [seamusduncmcgrath/openmw-nx](https://github.com/seamusduncmcgrath/openmw-nx) | | Yes |  
@@ -476,9 +452,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Half Life | 4219 | 19/10/2026 | [FWGS/xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs/) | [Link](https://gbatemp.net/threads/xash3d-half-life-custom-goldsrc-engine-for-switch.522848/) | Yes |  
 | Heroes of Might & Magic II | 1.1.17 | 30/06/2026 | [ihhub/fheroes2](https://github.com/ihhub/fheroes2/) | | Yes |  
 | Heroes of Might & Magic III | 1.8.0 R2 | 06/07/2026 | [NaGaa95/vcmi_nx](https://github.com/NaGaa95/vcmi_nx/) | | Yes |  
-| 🔴 Hurrican | 1.04-Switch | 30/01/2024 | [rsn8887/Hurrican](https://github.com/rsn8887/Hurrican) |  | No |  
 | Insaniquarium | 1.0.1 | 06/09/2026 | [ChanseyIsTheBest/insaniquarium_nx](https://github.com/ChanseyIsTheBest/insaniquarium_nx) | [Link](https://gbatemp.net/threads/insaniquarium-deluxe-switch-port.684222/) | Yes |  
-| 🔴 Jazz Jackrabbit | 1.2.1 | 18/09/2019 | [KranKRival/OpenJazzNX](https://github.com/KranKRival/OpenJazzNX?) | [Link](https://gbatemp.net/threads/openjazznx-openjazz-port-with-sdl2-for-the-nintendo-switch.546759/) | No |  
 | 🟢 Jazz Jackrabbit 2 | 3.9.0 | 17/10/2026 | [deathkiller/jazz2](https://github.com/deathkiller/jazz2) | | Yes |  
 | The Legend of Zelda: Oni Link Begins | 1.1.1 | 25/08/2026 | [worthis/ZeldaOLB-new-engine](https://github.com/worthis/ZeldaOLB-new-engine) |  | Yes |  
 | The Legend of Zelda: Return of the Hylian | 1.1.4 | 25/08/2026 | [worthis/ZeldaROTH-new-engine](https://github.com/worthis/ZeldaROTH-new-engine) |  | Yes |  
@@ -492,7 +466,6 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Nazi Zombies: Portable | 2.0.0 | 19/10/2026 | [NZP-Team/nzportable](https://github.com/nzp-team/nzportable/) | [Link](https://gbatemp.net/threads/nzportable-nazi-zombies-made-with-quake-engine.624375/) | Yes |  
 | 🟢 Minecraft Java 1.12.2 | *released* | ??? | [etonedemid/minecraft-switch](https://github.com/etonedemid/minecraft-switch) | | Yes |  
 | One Must Fall: 2097 | 0.8.7 | 10/09/2026 | [Thorhax/OpenOMF-NX-Modern](https://github.com/Thorhax/OpenOMF-NX-Modern) | [Link](https://gbatemp.net/threads/preliminary-list-of-updated-homebrew-apps-and-tools-for-fw-21-0-0-ams-1-10-0-please-add-your-findings.677217/post-10907101) | Yes |  
-| 🔴 OpenTyrian 2000 | 1.0.0 | 04/03/2019 | [theflippedbit/opentyrian-nx](https://github.com/theflippedbit/opentyrian-nx) |  | No |  
 | Outrun 2006: Coast 2 Coast | test-1 | 07/10/2026 | [r4dius/outrun2-decomp](https://github.com/r4dius/outrun2-decomp) | [Link](https://gbatemp.net/threads/outrun-2006-coast-2-coast-decomp.685083/) | Yes |  
 | Plants Vs Zombies | 2026-07-02 | 02/07/2026 | [HayatoG/PVZ-Portable](https://github.com/HayatoG/PvZ-Portable/) | | Yes |  
 | PokeMMO | 1.1.4 | 09/10/2026 | [Petit-Prince-dev/PokeMMO-NX](https://github.com/Petit-Prince-dev/PokeMMO-NX) | [Link](https://gbatemp.net/threads/pokemmo-is-now-running-natively-on-the-nintendo-switch.685027/) | Yes |  
@@ -500,21 +473,13 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Project Zomboid | *beta* | 20/10/2026 | [etonedemid/zomboid-switch](https://github.com/etonedemid/zomboid-switch) | | Yes |  
 | Quake | 0.93.3 NX | 04/09/2026 | [Thorhax/Quakespasm-NX-Modern](https://github.com/Thorhax/Quakespasm-NX-Modern) | | Yes |  
 | Quake 2 | 8.21 NX | 01/09/2026 | [Thorhax/Quake2-NX-Modern](https://github.com/Thorhax/Quake2-NX-Modern) | | Yes |  
-| 🔴 Quake III Arena | 0.3.0-nx | 18/09/2019 | [fgsfdsfgs/ioq3](https://github.com/fgsfdsfgs/ioq3) |  | No |  
-| 🔴 Return to Castle Wolfenstein | *pre-release* | 19/11/2020 | [capsterx-switch/iortcw](https://github.com/capsterx-switch/iortcw) |  | No |  
-| 🔴 Rocks'n'Diamonds / Mirrormagic | 1.15 | 22/05/2021 | [rsn8887/rocksndiamonds](https://github.com/rsn8887/rocksndiamonds) |  | No |  
-| 🔴 RollerCoaster Tycoon 2 | 1.06-switch | 23/04/2021 | [rsn8887/OpenRCT2](https://github.com/rsn8887/OpenRCT2) |  | No |  
-| | 1.0.0 | 10/09/2026 | [Wander-Eule/OpenRCT2-Switch](https://github.com/Wander-Eule/OpenRCT2-Switch) | | Yes |  
-| 🔴 Serious Sam: The First Encounter / The Second Encounter | nx1 | 28/12/2019 | [fgsfdsfgs/Serious-Engine](https://github.com/fgsfdsfgs/Serious-Engine) |  | No |  
+| RollerCoaster Tycoon 2 | 1.0.0 | 10/09/2026 | [Wander-Eule/OpenRCT2-Switch](https://github.com/Wander-Eule/OpenRCT2-Switch) | | Yes |  
 | 🟢 Sheep, Dog 'n' Wolf: Rewooled | 1.0.1 | 22/10/2026 | [adumah/SheepDogWolf-NX](https://github.com/adumah/SheepDogWolf-NX) | | Yes |  
-| 🔴 The Simpsons: Hit and Run | 0.6.1 | 22/07/2024 | [ZeroArrows/The-Simpsons-Hit-and-Run](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/) | | ??? |  
 | Silent Hill | 1.1.0 | 15/08/2026 | [ChaykaDed/silent-hill-decomp-nx](https://github.com/ChaykaDed/silent-hill-decomp-nx/) | [Link](https://gbatemp.net/threads/silent-hill-decompilation-nx-switch-port.682867/) | Yes |  
 | 🟢 Silent Hill 2 | 1.02 | 21/10/2026 | [cutarev/sh2-nx](https://github.com/cutarev/sh2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10921957) | Yes |  
 | 🟢 Silent Hill 3 | 0.04 | 17/10/2026 | [cutarev/sh3-nx](https://github.com/cutarev/sh3-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10921957) | Yes |  
 | Silent Hill 4: The Room | 0.1 | 11/10/2026 | [72ak/sh4-nx](https://github.com/72ak/sh4-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10922888) | Yes |  
 | 🟢 Sly Cooper and the Thievius Raccoonus | 0.5.0 | 21/10/2026 | [NaGaa95/ProjectCane](https://github.com/NaGaa95/ProjectCane) | [Link](https://gbatemp.net/threads/sly-cooper-projectcane-switch-port.685266/) | Yes |  
-| 🟠 Sonic 2006 | 1.0.2 | 31/07/2026 | [NaGaa95/MarathonRecomp-NX](https://github.com/NaGaa95/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/) | Yes |  
-| 🟠 Sonic CD | 1.3.0 | 26/11/2021 | [heyjoeway/Sonic-CD-11-Decompilation](https://github.com/heyjoeway/Sonic-CD-11-Decompilation/) | | No |  
 | Sonic R | 0.1 | 15/09/2026 | [boraeskicioglu/sonic_r_nx](https://github.com/boraeskicioglu/sonic_r_nx) | [Link](https://gbatemp.net/threads/sonic-r-switch-port-with-lan-support.684446/) | Yes |  
 | | 1.0.1 | 16/09/2026 | [Thorhax/Sonic-R-NX-Modern](https://github.com/Thorhax/Sonic-R-NX-Modern) | | Yes |  
 | Space Cadet | 1.1.1-NX3 | 03/10/2026 | [averne/SpaceCadetPinball-NX](https://github.com/averne/SpaceCadetPinball-NX/) | [Link](https://gbatemp.net/threads/space-cadet-pinball-switch-port.601370/) | No |
@@ -530,15 +495,11 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Touhou 10: Mountain of Faith | 1.00a-r5 | 30/09/2026 | [saekaze/th10-switch](https://github.com/saekaze/th10-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | Touhou 11: Subterranean Animism | 1.00a-r3 | 30/09/2026 | [saekaze/th11-switch](https://github.com/saekaze/th11-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | 🟢 Touhou 15: Legacy of Lunatic Kingdom | 1.00b-r3 | 13/10/2026 | [saekaze/th15-switch](https://github.com/saekaze/th15-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
-| 🔴 Transport Tycoon Deluxe | 1.07-switch | 08/05/2021 | [rsn8887/OpenTTD](https://github.com/rsn8887/OpenTTD) |  | No |  
-| 🔴 Ultima VII | 1.7.0-switchr1.5 | 23/11/2020 | [capsterx-switch/exult](https://github.com/capsterx-switch/exult) |  | No |  
 | Undertale Yellow | 1.0.0 | 30/08/2026 | [NalienDev/Undertale-Yellow-NX](https://github.com/NalienDev/Undertale-Yellow-NX) | | Yes |  
-| 🔴 Unreal / Unreal Gold | r2 | 26/12/2022 | [fgsfdsfgs/unreal_nx](https://github.com/fgsfdsfgs/unreal_nx) |  | No |  
 | Velikolepny Vovochka | 1.0.1.0 | 16/09/2026 | [worthis/Vovochka](https://github.com/worthis/Vovochka) |  | Yes |  
 | Warcraft | 3.3.3-NX | 14/09/2026 | [Thorhax/War1gus-NX-Modern](https://github.com/Thorhax/War1gus-NX-Modern) | | Yes |  
 | Warcraft II | 3.3.2-NX.2 | 09/09/2026 | [Thorhax/Wargus-NX-Modern](https://github.com/Thorhax/Wargus-NX-Modern) | | Yes |  
 | Wolfenstein 3D | 2.2 NX | 08/09/2026 | [Thorhax/Wolf4SDL-NX-Modern](https://github.com/Thorhax/Wolf4SDL-NX-Modern) | | Yes |  
-| 🔴 XCOM | 1.0 | 20/11/2024 | [alexart878/OpenXcom-switch](https://github.com/alexart878/OpenXcom-switch) | [Link](https://gbatemp.net/threads/openxcom-port-for-nintendo-switch.663495/) | No |  
 | Zuma Deluxe | 0.7 | 23/07/2026 | [1timewire1/CircleShootApp](https://github.com/1timewire1/CircleShootApp/tree/switch) |  | Yes |  
 
 - 12/90 updated 19/10/2026  
@@ -575,12 +536,10 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Donkey Kong Country 3 | 0.0.5-NX1 | 30/09/2026 | [souldbminerr/DKC3Recomp-NX](https://github.com/souldbminerr/DKC3Recomp-NX) | [Link](https://gbatemp.net/threads/donkey-kong-country-trilogy-port-16-9-widescreen-2-player-support.684319/) | Yes |  
 | | 1.1 | 22/09/2026 | [1weell/DKC2Recomp-Switch](https://github.com/1weell/DKC2Recomp-Switch) | | Yes |  
 | F-Zero | 0.3.0 | 19/09/2026 | [Thorhax/F-Zero-NX-Modern](https://github.com/Thorhax/F-Zero-NX-Modern) | | Yes |  
-| 🔴 The Legend of Zelda: A Link to the Past | 0.3 | 16/08/2023 | [Snesrev/Zelda3](https://github.com/snesrev/zelda3/) | [Link](https://gbatemp.net/threads/the-legend-of-zelda-a-link-to-the-past-aleks-ultimate-nx.683965/) | No |  
 | | 1.3.0 | 17/10/2026 | [Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/the-legend-of-zelda-a-link-to-the-past-aleks-ultimate-nx.683965/) | Yes |  
 | Illusion of Gaia | 1.0.0 | 16/10/2026 | [mrOt4/babel-recomp](https://github.com/mrOt4/babel-recomp) | | Yes |  
 | 🟢 Mega Man X | 1.1.0 | 16/10/2026 | [Thorhax/MegaManX-NX](https://github.com/Thorhax/MegaManX-NX) | [Link](https://gbatemp.net/threads/megaman-x-recomp-nx.685184/) | Yes |  
 | 🟢 Starfox | 0.0.8.7 | 16/10/2026 | [kandowontu2/starfox-enhanced](https://github.com/kandowontu2/starfox-enhanced) | [Link](https://gbatemp.net/threads/star-fox-enhanced.684201/) | Yes |  
-| 🔴 Super Metroid | n/a | n/a | [Snesrev/SM](https://github.com/snesrev/sm/) | [Link](https://gbatemp.net/threads/super-metroid-sm-nintendo-switch-port.628933/) | ??? |  
 
 - 2/12 updated 19/10/2026  
 ⎯ [Top](#toc)
@@ -625,7 +584,6 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Skate 3 | 0.1.2 | 21/10/2026 | [JohnUzoka/skate-3-rust-engine](https://github.com/JohnUzoka/skate-3-rust-engine) | | Yes |  
 | 🟢 Sonic Adventure 2 | 1.0.3.1 | 20/10/2026 | [ChanseyIsTheBest/sa2-nx](https://github.com/ChanseyIsTheBest/sa2-nx) | [Link](https://gbatemp.net/threads/sonic-adventure-2-xbox-360-ver-switch-port.685092/) | Yes |  
 | Sonic The Hedgehog (2006) | 1.0.3 | 02/10/2026 | [ChanseyIsTheBest/MarathonRecomp-NX](https://github.com/ChanseyIsTheBest/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/post-10916486) | Yes |  
-| 🟠 Sonic Unleashed | 0.0.3 | 30/07/2026 | [NaGaa95/UnleashedRecomp-NX](https://github.com/NaGaa95/UnleashedRecomp-NX/) | [Link](https://gbatemp.net/threads/sonic-unleashed-recompiled-homebrew-port.681869/) | Yes |  
 | | 0.0.1 | 19/05/2026 | [givethesourceplox/UnleashedRecomp-NX](https://github.com/givethesourceplox/UnleashedRecomp-NX) | [Link](https://gbatemp.net/threads/sonic-unleashed-recompiled-homebrew-port.681869/) | Yes |  
 | | 1.0.0 | 02/10/2026 | [ChanseyIsTheBest/UnleashedRecomp-NX](https://github.com/ChanseyIsTheBest/UnleashedRecomp-NX) | [Link](https://gbatemp.net/threads/sonic-unleashed-recompiled-homebrew-port.681869/post-10916920) | Yes |  
 | 🟢 Space Channel 5: Part 2 | 1.1.0 | 18/10/2026 | [BiroGrafx/sc5p2-nx](https://github.com/BiroGrafx/sc5p2-nx) | [Link](https://gbatemp.net/threads/space-channel-5-part-2-switch-port.685536/) | Yes |  
