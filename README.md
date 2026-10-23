@@ -553,6 +553,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Black | 0.1.0 | 23/10/2026 | [gerisson1996/BLACK-NX-PORT](https://github.com/gerisson1996/BLACK-NX-PORT/blob/main/README.en.md) | [Link](https://gbatemp.net/threads/black-xbox-nx-port.685756/) | Yes |  
 | 🟢 Burnout 3: Takedown | 0.2.1 | 13/10/2026 | [antoxa2584x/burnout3-sw](https://github.com/antoxa2584x/burnout3-sw) | [Link](https://gbatemp.net/threads/burnout-3-takedown-switch-port.685241/) | Yes |  
 | 🟢 Cold Fear | 0.0.3 | 22/10/2026 | [gerisson1996/COLD-FEAR-NX-PORT](https://github.com/gerisson1996/COLD-FEAR-NX-PORT) | [Link](https://gbatemp.net/threads/cold-fear-nx-port-xbox-classic.685667/) | Yes |  
+| 🟢 Dead or Alive 3 | *released* | 23/10/2026 | [toniisound/doa3-nx](https://github.com/toniisound/doa3-nx) | [Link](https://gbatemp.net/threads/release-dead-or-alive-3-wip.685748/) | Yes |  
 | Def Jam: Fight for NY | 1.0.0 | 09/10/2026 | [R-drg/defjam-sw](https://github.com/R-drg/defjam-sw) | | Yes |  
 | 🟢 Flatout 2 | 0.2.1 | 18/10/2026 | [antoxa2584x/flatout2-sw](https://github.com/antoxa2584x/flatout2-sw) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10924028) | Yes |  
 | 🟢 Halo: Combat Evolved | Build 106 | 18/10/2026 | [thelinkin3000/halo-ce-universal](https://github.com/thelinkin3000/halo-ce-universal) | [Link](https://gbatemp.net/threads/halo-ce-for-switch.684926/#post-10917594) | Yes |  
