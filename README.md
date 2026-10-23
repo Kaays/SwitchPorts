@@ -570,8 +570,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 ### Microsoft Xbox 360
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
-| 🟢 BattleBlock Theater | 0.2.0 | 22/10/2026 | [https://github.com/andresarevalo1/BattleBlockRecomp-NX) | | Yes | 
 | 🟢 Bakugan: Battle Brawlers | 0.2.1 | 21/10/2026 | [Wiredlainn-afk/Bakugan-NX](https://github.com/Wiredlainn-afk/Bakugan-NX) | | Yes |  
+| 🟢 BattleBlock Theater | 0.2.0 | 22/10/2026 | [andresarevalo1/BattleBlockRecomp-NX](https://github.com/andresarevalo1/BattleBlockRecomp-NX) | | Yes | 
 | 🟢 Bejeweled 3 | 1.0.0 | 21/10/2026 | [ChanseyIsTheBest/bejeweled3-nx](https://github.com/ChanseyIsTheBest/bejeweled3-nx) | [Link](https://gbatemp.net/threads/bejeweled-3-xbox-360-ver-switch-port.685689/unread) | Yes |  
 | 🟢 Dante's Inferno | 1.0.0 (TU2) | 21/10/2026 | [VasilkovND/dantes-inferno-nx](https://github.com/VasilkovND/dantes-inferno-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994) | Yes |  
 | 🟢 Dead Space 2 | 1.0.4 (TU2) | 21/10/2026 | [VasilkovND/ds2-nx](https://github.com/VasilkovND/ds2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994) | Yes |  
@@ -593,7 +593,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Tony Hawk's Project 8 | 1.0.0 | 01/10/2026 | [R-drg/project8-sw](https://github.com/R-drg/project8-sw) | | Yes |  
 | 🟢 Torchlight | 1.0.2 | 15/10/2026 | [liartes/torchlight-nx](https://github.com/liartes/torchlight-nx) | | Yes |  
 | | 1.0.0 | 20/10/2026 | [GreenSwampDweller/torchlight-rekindled](https://github.com/GreenSwampDweller/torchlight-rekindled) | [Link](https://gbatemp.net/threads/torchlight-rekindled-port-of-torchlight-2009-on-switch-android.685627/) | Yes |  
-| 🟢 Ultra Street Fighter IV | 0.7.5 | 20/10/2026 | [Thorhax/usf4-nx](https://github.com/Thorhax/usf4-nx) | | Yes | 
+| 🟢 Ultra Street Fighter IV | 0.7.5 | 20/10/2026 | [Thorhax/usf4-nx](https://github.com/Thorhax/usf4-nx) | | Yes |  
 
 
 - 7/16 updated 19/10/2026  
