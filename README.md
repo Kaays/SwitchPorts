@@ -381,7 +381,7 @@ Alphabetized by system
 | The Legend of Zelda: Twilight Princess | 1.4.3 | 02/07/2026 | [HayatoG/dusklight](https://github.com/HayatoG/dusklight/) | [Link](https://gbatemp.net/threads/dusk-for-switch-tloz-twilight-princess-port.681677/) | Yes |  
 | | 2.0.0.25 | 19/06/2026 | [souldbminerr/dusklight-nx](https://github.com/souldbminerr/dusklight-nx) | [Link](https://gbatemp.net/threads/dusklight-switch-port-720p-30fps-at-stock-clocks-2x-performance-compared-to-old-port.684545/) | Yes |  
 | | v1.4.1.0-test | 20/06/2026 | [givethesourceplox/dusk](https://github.com/givethesourceplox/dusk) | [Link](https://gbatemp.net/threads/dusk-for-switch-tloz-twilight-princess-port.681677/) | Yes |  
-| 🟢 | 1.0.0 | 23/10/2026 | [Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-twilight-princess-for-switch-dusklight-aleks-ultimate-nx-edition-public-beta-1-0-0-beta-1.685028/) | Yes |  
+| 🟢 | 1.0.0 | 23/10/2026 | [Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-twilight-princess-on-switch-dusklight-aleks-ultimate-nx-edition-1-0-0-deko3d-pc-mods-co-op-cross-save.685740/unread) | Yes |  
 | 🟢 The Legend of Zelda: Wind Waker | 0.5.0 | 19/10/2026 | [centollOS/SwitchWaker](https://github.com/centollOS/SwitchWaker) | [Link](https://gbatemp.net/threads/zelda-the-wind-waker-switch-port.685126/) | Yes |  
 | Super Mario Strikers | 1.3.0 | 22/09/2026 |[new-coke/strikers](https://github.com/new-coke/strikers) | [Link](https://gbatemp.net/threads/strikers-a-native-port-of-super-mario-strikers-is-testing-a-switch-port.684553/) | Yes |  
 | Super Smash Bros. Melee | 0.2.5 *beta* | 06/10/2026 | [KawaiiBunga/Melee-NX](https://github.com/KawaiiBunga/Melee-NX) | | Yes |  
@@ -553,6 +553,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Black | 0.1.0 | 23/10/2026 | [gerisson1996/BLACK-NX-PORT](https://github.com/gerisson1996/BLACK-NX-PORT/blob/main/README.en.md) | [Link](https://gbatemp.net/threads/black-xbox-nx-port.685756/) | Yes |  
 | 🟢 Burnout 3: Takedown | 0.2.1 | 13/10/2026 | [antoxa2584x/burnout3-sw](https://github.com/antoxa2584x/burnout3-sw) | [Link](https://gbatemp.net/threads/burnout-3-takedown-switch-port.685241/) | Yes |  
 | 🟢 Cold Fear | 0.0.3 | 22/10/2026 | [gerisson1996/COLD-FEAR-NX-PORT](https://github.com/gerisson1996/COLD-FEAR-NX-PORT) | [Link](https://gbatemp.net/threads/cold-fear-nx-port-xbox-classic.685667/) | Yes |  
+| 🟢 Conker: Live & Reloaded | 0.1.0 | 23/10/2026 | [rashevskyv/conker-lr-recomp](https://github.com/rashevskyv/conker-lr-recomp) | [Link](https://github.com/rashevskyv/conker-lr-recomp) | Yes |  
 | 🟢 Dead or Alive 3 | *released* | 23/10/2026 | [toniisound/doa3-nx](https://github.com/toniisound/doa3-nx) | [Link](https://gbatemp.net/threads/release-dead-or-alive-3-wip.685748/) | Yes |  
 | Def Jam: Fight for NY | 1.0.0 | 09/10/2026 | [R-drg/defjam-sw](https://github.com/R-drg/defjam-sw) | | Yes |  
 | 🟢 Flatout 2 | 0.2.1 | 18/10/2026 | [antoxa2584x/flatout2-sw](https://github.com/antoxa2584x/flatout2-sw) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10924028) | Yes |  
@@ -573,7 +574,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 ### Microsoft Xbox 360
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
-| 🟢 Bakugan: Battle Brawlers | 0.2.1 | 21/10/2026 | [Wiredlainn-afk/Bakugan-NX](https://github.com/Wiredlainn-afk/Bakugan-NX) | | Yes |  
+| 🟢 Bakugan: Battle Brawlers | 0.2.3 | 23/10/2026 | [Wiredlainn-afk/Bakugan-NX](https://github.com/Wiredlainn-afk/Bakugan-NX) | | Yes |  
 | 🟢 BattleBlock Theater | 0.2.0 | 22/10/2026 | [andresarevalo1/BattleBlockRecomp-NX](https://github.com/andresarevalo1/BattleBlockRecomp-NX) | | Yes | 
 | 🟢 Bejeweled 3 | 1.0.0 | 21/10/2026 | [ChanseyIsTheBest/bejeweled3-nx](https://github.com/ChanseyIsTheBest/bejeweled3-nx) | [Link](https://gbatemp.net/threads/bejeweled-3-xbox-360-ver-switch-port.685689/unread) | Yes |  
 | 🟢 Dante's Inferno | 1.0.0 (TU2) | 21/10/2026 | [VasilkovND/dantes-inferno-nx](https://github.com/VasilkovND/dantes-inferno-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994) | Yes |  
