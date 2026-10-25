@@ -404,6 +404,7 @@ Alphabetized by system
 | --- | --- | --- | --- | --- | --- |
 | Banjo Kazooie | 1.1.0 | 18/08/2026 | [PalindromicBreadLoaf/Docklight](https://github.com/PalindromicBreadLoaf/Docklight) | [Link](https://gbatemp.net/threads/docklight-a-port-of-lighthouse-to-the-nintendo-switch.683488/) | Yes |  
 | 🟢 Bomberman 64 | 1.0.0 | 16/10/2026 | [paulodiasred/BM64Switch](https://github.com/paulodiasred/BM64Switch) | [Link](https://gbatemp.net/threads/release-bomberman-64-recompiled-native-switch-port-nsp-nro-60-fps.685448/) | Yes |  
+| 🟢 Castlevania: Legacy of Darkness | 1.0.0-RC1 | 24/09/2026 | [PalindromicBreadLoaf/LegacyOfDockness](https://github.com/PalindromicBreadLoaf/LegacyOfDockness) | | Yes |  
 | 🟢 Conker's Bad Fur Day | RC1 | 18/10/2026 | [DomazinUS/CBFD-Switch](https://github.com/DomazinUS/CBFD-Switch) | [Link](https://gbatemp.net/threads/release-conkers-bad-fur-day-recompiled-for-nintendo-switch-60fps-720p-1080p-stock-clocks.685543/) | Yes |  
 | Diddy Kong Racing | 1.2.1 | 12/08/2026 | [boraeskicioglu/goldenballoon_nx](https://github.com/boraeskicioglu/goldenballoon_nx) | [Link](https://gbatemp.net/threads/diddy-kong-racing-golden-balloon-switch-port.683670/) | Yes |  
 | Donkey Kong 64 | 1.1.2 | 11/10/2026 | [Trinalord777/DK64Recomp-NX](https://github.com/Trinalord777/DK64Recomp-NX) | [Link](https://gbatemp.net/threads/dk64-reconkgpiled-nx-port.685111/) | Yes |  
