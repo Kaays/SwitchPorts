@@ -243,6 +243,7 @@ Alphabetized by system
 | Grand Theft Auto Chinatown Wars | 1.0.1 | 29/06/2026 | [NaGaa95/gtactw_nx](https://github.com/NaGaa95/gtactw_nx) | [Link](https://gbatemp.net/threads/gta-chinatown-wars-switch-port.682411/) | Yes |  
 | Grand Theft Auto Liberty City Stories | 1.0.3 | 30/06/2026 | [NaGaa95/gtalcs_nx](https://github.com/NaGaa95/gtalcs_nx) | [Link](https://gbatemp.net/threads/gta-liberty-city-stories-switch-port.682681/) | Yes |  
 | Grand Theft Auto San Andreas | 1.0.4 | 15/08/2026 | [NaGaa95/gtasa_nx](https://github.com/NaGaa95/gtasa_nx) | [Link](https://gbatemp.net/threads/gta-san-andreas-switch-port.683068/) | Yes |  
+| Granny | 1.0.0 | 23/10/2026 | [xflipperkast/granny_nx](https://github.com/xflipperkast/granny_nx) | | Yes |  
 | Half Life 2 | 1.0.4 | 03/08/2026 | [NaGaa95/hl2_nx](https://github.com/NaGaa95/hl2_nx) | [Link](https://gbatemp.net/threads/half-life-2-source-engine-switch-port.682466/unread) | Yes |  
 | Happy Wheels | 1.0.0 | 11/08/2026 | [ChanseyIsTheBest/happywheels_nx](https://github.com/ChanseyIsTheBest/happywheels_nx) | [Link](https://gbatemp.net/threads/happy-wheels-switch-port.683669/) | Yes |  
 | Heart Star | 1.0.0 | 19/09/2026 | [ChanseyIsTheBest/heartstar_nx](https://github.com/ChanseyIsTheBest/heartstar_nx) | [Link](https://gbatemp.net/threads/adventure-island-game-ports-total-party-kill-heart-star-poor-bunny-duke-dashington-switch-port.684579/) | Yes |  
@@ -438,6 +439,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 0 A.D. | R28-NX1 | 30/06/2026 | [souldbminerr/0ad-switch](https://github.com/souldbminerr/0ad-switch) | [Link](https://gbatemp.net/threads/0-a-d-switch-port-rts-in-horizon-os.682759/) | ??? |  
 | Alien vs. Predator: Gold | v2026-nx | 13/09/2026 | [Thorhax/AvP-Gold-NX-Modern](https://github.com/Thorhax/AvP-Gold-NX-Modern) | | Yes |  
 | 🟢 Black & White | 0.1.0 | 19/10/2026 | [gitgarage/openblack](https://github.com/gitgarage/openblack) | [Link](https://gbatemp.net/threads/release-openblack-for-switch-black-white-2001-on-nintendo-switch.685558/) | Yes |  
+| Call of Duty - Black Ops II | *beta 2* |26/10/2026 | [HDErick/BO2-Requiem-NX](https://github.com/HDErick/BO2-Requiem-NX) | | Yes |  
 | 🟢 Castlevania ReVamped | 1.1.3 | 15/10/2026 | [bshurikan/cvrevamped_nx](https://github.com/bshurikan/cvrevamped_nx) | [Link](https://gbatemp.net/threads/castlevania-revamped-nintendo-switch-port.684636/) | Yes |  
 | Commander Keen | 3.6.0 | 10/02/2026 | [Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/) | [Link](https://gbatemp.net/threads/commander-keen-for-switch.569609/) | Yes |  
 | Descent | 0.58.6 | 09/09/2026 | [Thorhax/Descent1-NX-Modern](https://github.com/Thorhax/Descent1-NX-Modern) | | Yes |  
