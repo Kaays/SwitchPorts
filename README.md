@@ -381,8 +381,8 @@ Alphabetized by system
 | The Legend of Zelda: Twilight Princess | 1.4.3 | 02/07/2026 | [HayatoG/dusklight](https://github.com/HayatoG/dusklight/) | [Link](https://gbatemp.net/threads/dusk-for-switch-tloz-twilight-princess-port.681677/) | Yes |  
 | | 2.0.0.25 | 19/06/2026 | [souldbminerr/dusklight-nx](https://github.com/souldbminerr/dusklight-nx) | [Link](https://gbatemp.net/threads/dusklight-switch-port-720p-30fps-at-stock-clocks-2x-performance-compared-to-old-port.684545/) | Yes |  
 | | v1.4.1.0-test | 20/06/2026 | [givethesourceplox/dusk](https://github.com/givethesourceplox/dusk) | [Link](https://gbatemp.net/threads/dusk-for-switch-tloz-twilight-princess-port.681677/) | Yes |  
-| 🟢 | 1.0.0 | 23/10/2026 | [Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-twilight-princess-on-switch-dusklight-aleks-ultimate-nx-edition-1-0-0-deko3d-pc-mods-co-op-cross-save.685740/unread) | Yes |  
-| 🟢 The Legend of Zelda: Wind Waker | 0.5.0 | 19/10/2026 | [centollOS/SwitchWaker](https://github.com/centollOS/SwitchWaker) | [Link](https://gbatemp.net/threads/zelda-the-wind-waker-switch-port.685126/) | Yes |  
+| 🟢 | 1.0.1 | 25/10/2026 | [Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-twilight-princess-on-switch-dusklight-aleks-ultimate-nx-edition-1-0-0-deko3d-pc-mods-co-op-cross-save.685740/unread) | Yes |  
+| 🟢 The Legend of Zelda: Wind Waker | 1.0.0 | 25/10/2026 | [centollOS/SwitchWaker](https://github.com/centollOS/SwitchWaker) | [Link](https://gbatemp.net/threads/zelda-the-wind-waker-switch-port.685126/) | Yes |  
 | 🟢 Mario Kart: Double Dash! | 1.6.1 | 25/10/2026 | [digdat0/mkdd-nx](https://github.com/digdat0/mkdd-nx) | [Link](https://gbatemp.net/threads/mario-kart-double-dash-nx-switch-port.685843/) | Yes |  
 | Super Mario Strikers | 1.3.0 | 22/09/2026 |[new-coke/strikers](https://github.com/new-coke/strikers) | [Link](https://gbatemp.net/threads/strikers-a-native-port-of-super-mario-strikers-is-testing-a-switch-port.684553/) | Yes |  
 | Super Smash Bros. Melee | 0.2.5 *beta* | 06/10/2026 | [KawaiiBunga/Melee-NX](https://github.com/KawaiiBunga/Melee-NX) | | Yes |  
@@ -498,6 +498,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Touhou Wonderful Waking World | update-2 | 07/10/2026 | [saekaze/thWWW-switch](https://github.com/saekaze/thWWW-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | Touhou 10: Mountain of Faith | 1.00a-r5 | 30/09/2026 | [saekaze/th10-switch](https://github.com/saekaze/th10-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | Touhou 11: Subterranean Animism | 1.00a-r3 | 30/09/2026 | [saekaze/th11-switch](https://github.com/saekaze/th11-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
+| 🟢 Touhou 12: Undefined Fantastic Object | 1.00b-r2 | 25/10/2026 | [saekaze/th12-switch/](https://github.com/saekaze/th12-switch/) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | 🟢 Touhou 15: Legacy of Lunatic Kingdom | 1.00b-r3 | 13/10/2026 | [saekaze/th15-switch](https://github.com/saekaze/th15-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | Undertale Yellow | 1.0.0 | 30/08/2026 | [NalienDev/Undertale-Yellow-NX](https://github.com/NalienDev/Undertale-Yellow-NX) | | Yes |  
 | Velikolepny Vovochka | 1.0.1.0 | 16/09/2026 | [worthis/Vovochka](https://github.com/worthis/Vovochka) |  | Yes |  
@@ -601,7 +602,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Tony Hawk's Project 8 | 1.0.0 | 01/10/2026 | [R-drg/project8-sw](https://github.com/R-drg/project8-sw) | | Yes |  
 | 🟢 Torchlight | 1.0.2 | 15/10/2026 | [liartes/torchlight-nx](https://github.com/liartes/torchlight-nx) | | Yes |  
 | | 1.0.0 | 20/10/2026 | [GreenSwampDweller/torchlight-rekindled](https://github.com/GreenSwampDweller/torchlight-rekindled) | [Link](https://gbatemp.net/threads/torchlight-rekindled-port-of-torchlight-2009-on-switch-android.685627/) | Yes |  
-| 🟢 Ultra Street Fighter IV | 0.8.0 | 23/10/2026 | [Thorhax/usf4-nx](https://github.com/Thorhax/usf4-nx) | | Yes |  
+| 🟢 Ultra Street Fighter IV | 0.8.1 | 25/10/2026 | [Thorhax/usf4-nx](https://github.com/Thorhax/usf4-nx) | | Yes |  
 
 
 - 7/16 updated 19/10/2026  
