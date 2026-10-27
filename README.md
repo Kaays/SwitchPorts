@@ -132,6 +132,7 @@ Alphabetized by system
 | NGC/WII | Dolphin | 1.2.0 | 16/10/2026 | [NaGaa95/dolphin-nx](https://github.com/NaGaa95/dolphin-nx) | [Link](https://gbatemp.net/threads/dolphin-gc-wii-emulator-switch-port.683359/) | Yes |  
 | | 🟢 Nezumiiruka | 1.0.0 | 19/10/2026 | [PalindromicBreadLoaf/nezumiiruka](https://github.com/PalindromicBreadLoaf/nezumiiruka) | [Link](https://gbatemp.net/threads/nezumiiruka-new-and-best-dolphin-port.685219/) | Yes |  
 | PSX | Duckstation | PR 2 | 07/08/2026 | [shooterspps/duckstation](https://github.com/shooterspps/duckstation) | [Link](https://gbatemp.net/threads/duckstation-for-switch.654484/) | Yes |  
+| | 🟢 | *prerelease 2* | 27/10/2026 | [JohnJames29/duckstation-nx](https://github.com/JohnJames29/duckstation-nx) | | Yes |  
 | PS2 | NetherSX2 | 1.4.0 | 15/10/2026 | [NaGaa95/NetherSX2_nx](https://github.com/NaGaa95/NetherSX2_nx) | [Link](https://gbatemp.net/threads/nethersx2-switch-port.683038/) | Yes |  
 | PS2 | ARMSX2 | 3.0.0 | 24/08/2026 | [PalindromicBreadLoaf/ARMSX2-NX](https://github.com/PalindromicBreadLoaf/ARMSX2-NX) | [Link](https://gbatemp.net/threads/armsx2-nx-initial-release.682645/) | Yes |  
 | PSP | PPSSPP | 0.7.0 | 07/09/2026 | [SirSamael/ppsspp-switch-community-build](https://github.com/SirSamael/ppsspp-switch-community-build) | [Link](https://gbatemp.net/threads/ppsspp-switch-community-build.684008/) | Yes |   
