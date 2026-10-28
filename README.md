@@ -504,7 +504,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Touhou 8: Imperishable Night | 1.00d-r4 | 30/09/2026 | [saekaze/th08-switch](https://github.com/saekaze/th08-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | Touhou 9: Phantasmagoria of Flower View | 1.50a-r2 | 30/09/2026 | [saekaze/th09-switch](https://github.com/saekaze/th09-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | Touhou Wonderful Waking World | update-2 | 07/10/2026 | [saekaze/thWWW-switch](https://github.com/saekaze/thWWW-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
-| Touhou 10: Mountain of Faith | 1.00a-r5 | 30/09/2026 | [saekaze/th10-switch](https://github.com/saekaze/th10-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
+| 🟢 Touhou 10: Mountain of Faith | 1.00a-r6 | 27/10/2026 | [saekaze/th10-switch](https://github.com/saekaze/th10-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | Touhou 11: Subterranean Animism | 1.00a-r3 | 30/09/2026 | [saekaze/th11-switch](https://github.com/saekaze/th11-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | 🟢 Touhou 12: Undefined Fantastic Object | 1.00b-r2 | 25/10/2026 | [saekaze/th12-switch/](https://github.com/saekaze/th12-switch/) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | Touhou 15: Legacy of Lunatic Kingdom | 1.00b-r3 | 13/10/2026 | [saekaze/th15-switch](https://github.com/saekaze/th15-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
@@ -594,11 +594,12 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Feeding Frenzy 2: Shipwreck Showdown | 1.0.0 | 26/10/2026 | [ChanseyIsTheBest/feedingfrenzy2-nx](https://github.com/ChanseyIsTheBest/feedingfrenzy2-nx) | [Link](https://gbatemp.net/threads/feeding-frenzy-1-2-xbox-360-ver-switch-port.685866/) | Yes |  
 | 🟢 Gears of War 2 | 1.0.0 | 23/10/2026 | [VasilkovND/gears2-nx](https://github.com/VasilkovND/gears2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10934260) | Yes |  
 | 🟢 Guwange | 1.0.0 | 22/10/2026 | [ChanseyIsTheBest/guwange-nx](https://github.com/ChanseyIsTheBest/guwange-nx) | [Link](https://gbatemp.net/threads/guwange-xbox-360-ver-switch-port.685699/) | Yes |  
+| 🟢 Ketsui: Kizuna Jigoku Tachi Extra | 1.0.0 | 28/10/2026 | [ChanseyIsTheBest/ketsui-nx](https://github.com/ChanseyIsTheBest/ketsui-nx) | [Link](https://gbatemp.net/threads/ketsui-xbox-360-ver-switch-port.685938/) | Yes |  
 | 🟢 Lost Odyssey | 1.0.6 | 20/10/2026 | [Ad0ky/LostOdysseyRecomp](https://github.com/Ad0ky/LostOdysseyRecomp) | [Link](https://gbatemp.net/threads/lost-odyssey-nintendo-switch-port.685442/) | Yes |  
 | Mass Effect | 0.2.1 | 09/10/2026 | [nebadasSwifty/masseffect-nx](https://github.com/nebadasSwifty/masseffect-nx) | | Yes |  
 | 🟢 Metal Gear Rising: Revengeance | 0.2.2 | 23/10/2026 | [tuancapoo/mgr-nx-deko](https://github.com/tuancapoo/mgr-nx-deko) | | Yes |  
 | 🟢 Monster High: New Ghoul in School | *released* | 21/10/2026 | [adumah/mhnwis-nx](https://github.com/adumah/mhnwis-nx) | | Yes |  
-| 🟢 Mortal Kombat Komplete Edition | 1.0.0 | 26/10/2026 | [Thorhax/mk9-nx](https://github.com/Thorhax/mk9-nx) | | Yes |  
+| 🟢 Mortal Kombat Komplete Edition | 1.0.1 | 28/10/2026 | [Thorhax/mk9-nx](https://github.com/Thorhax/mk9-nx) | | Yes |  
 | 🟢 Mushihimesama Futari | 1.0.2 | 22/10/2026 | [ChanseyIsTheBest/futari-nx](https://github.com/ChanseyIsTheBest/futari-nx) | [Link](https://gbatemp.net/threads/mushihimesama-futari-xbox-360-ver-switch-port.685115/) | Yes |  
 | 🟢 Need for Speed: Carbon | 0.3.0 | 23/10/2026 | [Kaays/nfscarbon-nx](https://github.com/Kaays/nfscarbon-nx) | | Yes |  
 | Need for Speed: Most Wanted | 1.0.0 | 27/09/2026 | [StevensND/nfsmw-nx](https://github.com/StevensND/nfsmw-nx) | [Link](https://gbatemp.net/threads/need-for-speed-most-wanted-2005-switch-port.684784/) | Yes |  
@@ -615,6 +616,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Torchlight | 1.0.2 | 15/10/2026 | [liartes/torchlight-nx](https://github.com/liartes/torchlight-nx) | | Yes |  
 | 🟢 | 1.0.2 | 23/10/2026 | [GreenSwampDweller/torchlight-rekindled](https://github.com/GreenSwampDweller/torchlight-rekindled) | [Link](https://gbatemp.net/threads/torchlight-rekindled-port-of-torchlight-2009-on-switch-android.685627/) | Yes |  
 | 🟢 Ultra Street Fighter IV | 0.8.1 | 25/10/2026 | [Thorhax/usf4-nx](https://github.com/Thorhax/usf4-nx) | | Yes |  
+| 🟢 Zuma | 1.0.0 | 28/10/2026 | [ChanseyIsTheBest/zuma-nx](https://github.com/ChanseyIsTheBest/zuma-nx) | [Link](https://gbatemp.net/threads/zuma-zumas-revenge-xbox-360-ver-switch-port.685928/) | Yes |  
+| 🟢 Zuma's Revenge | 1.0.0 | 28/10/2026 | [ChanseyIsTheBest/zumasrevenge-nx](https://github.com/ChanseyIsTheBest/zumasrevenge-nx) | [Link](https://gbatemp.net/threads/zuma-zumas-revenge-xbox-360-ver-switch-port.685928/) | Yes |  
 
 
 - 20/29 updated 26/10/2026  
