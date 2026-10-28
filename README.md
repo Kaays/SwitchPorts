@@ -440,6 +440,7 @@ Alphabetized by system
 Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |
 | 0 A.D. | R28-NX1 | 30/06/2026 | [souldbminerr/0ad-switch](https://github.com/souldbminerr/0ad-switch) | [Link](https://gbatemp.net/threads/0-a-d-switch-port-rts-in-horizon-os.682759/) | ??? |  
+| 🟢 Age of Empires II: The Age of Kings | 0.1.0 *prerelease* | 27/10/2026 | [Zaydme/openaok](https://github.com/Zaydme/openaok) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10935642) | Yes |  
 | Alien vs. Predator: Gold | v2026-nx | 13/09/2026 | [Thorhax/AvP-Gold-NX-Modern](https://github.com/Thorhax/AvP-Gold-NX-Modern) | | Yes |  
 | 🟢 Black & White | 0.3.0 | 23/10/2026 | [gitgarage/openblack](https://github.com/gitgarage/openblack) | [Link](https://gbatemp.net/threads/release-openblack-for-switch-black-white-2001-on-nintendo-switch.685558/) | Yes |  
 | 🟢 Call of Duty - Black Ops II | *beta 2* | 26/10/2026 | [HDErick/BO2-Requiem-NX](https://github.com/HDErick/BO2-Requiem-NX) | | Yes |  
